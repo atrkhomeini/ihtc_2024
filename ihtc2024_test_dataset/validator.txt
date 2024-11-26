@@ -1,0 +1,157 @@
+Room r0 is age-mixed 1/2 on day 0
+Room r0 is age-mixed 1/2 on day 1
+Room r0 is age-mixed 1/2 on day 2
+Room r0 is age-mixed 1/2 on day 3
+Room r0 is age-mixed 1/2 on day 4
+Room r1 is age-mixed 1/2 on day 3
+Room r2 is age-mixed 1/2 on day 1
+Nurse n02 is underqualified for patient p35 in room r0 in shift 21 (day7@early)
+Nurse n02 is underqualified for patient p20 in room r0 in shift 25 (day8@late)
+Nurse n02 is underqualified for patient p32 in room r0 in shift 25 (day8@late)
+Nurse n06 is underqualified for patient p32 in room r0 in shift 28 (day9@late)
+Nurse n02 is underqualified for patient p20 in room r0 in shift 31 (day10@late)
+Nurse n09 is underqualified for patient p41 in room r0 in shift 39 (day13@early)
+Nurse n09 is underqualified for patient p11 in room r0 in shift 44 (day14@night)
+Nurse n09 is underqualified for patient p11 in room r0 in shift 47 (day15@night)
+Nurse n09 is underqualified for patient p41 in room r0 in shift 47 (day15@night)
+Nurse n06 is underqualified for patient p06 in room r0 in shift 53 (day17@night)
+Nurse n09 is underqualified for patient p02 in room r0 in shift 56 (day18@night)
+Nurse n09 is underqualified for patient p06 in room r0 in shift 56 (day18@night)
+Nurse n09 is underqualified for patient p02 in room r0 in shift 60 (day20@early)
+Nurse n09 is underqualified for patient p06 in room r0 in shift 60 (day20@early)
+Nurse n06 is underqualified for patient p06 in room r0 in shift 62 (day20@night)
+Nurse n06 is underqualified for patient p40 in room r2 in shift 21 (day7@early)
+Nurse n00 is underqualified for patient p13 in room r2 in shift 36 (day12@early)
+Nurse n00 is underqualified for patient p33 in room r2 in shift 36 (day12@early)
+Nurse n00 is underqualified for patient p13 in room r2 in shift 39 (day13@early)
+Nurse n00 is underqualified for patient p30 in room r2 in shift 52 (day17@late)
+Nurse n00 is underqualified for patient p37 in room r3 in shift 30 (day10@early)
+Nurse n09 is underqualified for patient p37 in room r3 in shift 31 (day10@late)
+Nurse n09 is underqualified for patient p37 in room r3 in shift 34 (day11@late)
+Nurse n09 is underqualified for patient p37 in room r3 in shift 44 (day14@night)
+Nurse n00 is underqualified for patient p26 in room r3 in shift 58 (day19@late)
+Nurse n02 is underqualified for patient p18 in room r4 in shift 25 (day8@late)
+Nurse n02 is underqualified for patient p04 in room r4 in shift 28 (day9@late)
+Nurse n02 is underqualified for patient p18 in room r4 in shift 28 (day9@late)
+Nurse n02 is underqualified for patient p04 in room r4 in shift 31 (day10@late)
+Nurse n02 is underqualified for patient p18 in room r4 in shift 31 (day10@late)
+Nurse n00 is underqualified for patient p18 in room r4 in shift 39 (day13@early)
+Nurse n00 is underqualified for patient p29 in room r4 in shift 42 (day14@early)
+Nurse n00 is underqualified for patient p31 in room r4 in shift 42 (day14@early)
+Nurse n09 is underqualified for patient p29 in room r4 in shift 44 (day14@night)
+Nurse n00 is underqualified for patient p31 in room r4 in shift 45 (day15@early)
+3 distinct nurses for occupant a0
+3 distinct nurses for occupant a1
+4 distinct nurses for occupant a2
+3 distinct nurses for occupant a3
+3 distinct nurses for occupant a4
+4 distinct nurses for occupant a5
+4 distinct nurses for occupant a6
+6 distinct nurses for patient p00
+5 distinct nurses for patient p01
+4 distinct nurses for patient p02
+4 distinct nurses for patient p03
+4 distinct nurses for patient p04
+4 distinct nurses for patient p05
+4 distinct nurses for patient p06
+5 distinct nurses for patient p10
+5 distinct nurses for patient p11
+5 distinct nurses for patient p12
+5 distinct nurses for patient p13
+4 distinct nurses for patient p15
+5 distinct nurses for patient p16
+4 distinct nurses for patient p18
+4 distinct nurses for patient p19
+4 distinct nurses for patient p20
+5 distinct nurses for patient p21
+5 distinct nurses for patient p22
+3 distinct nurses for patient p24
+5 distinct nurses for patient p25
+4 distinct nurses for patient p26
+4 distinct nurses for patient p27
+5 distinct nurses for patient p28
+3 distinct nurses for patient p29
+5 distinct nurses for patient p30
+3 distinct nurses for patient p31
+5 distinct nurses for patient p32
+4 distinct nurses for patient p33
+4 distinct nurses for patient p35
+5 distinct nurses for patient p36
+5 distinct nurses for patient p37
+5 distinct nurses for patient p39
+6 distinct nurses for patient p40
+5 distinct nurses for patient p41
+Excessive workload  1 for nurse n01 in shift 45 (day15@early)
+Excessive workload  2 for nurse n03 in shift 4 (day1@late)
+Excessive workload  1 for nurse n03 in shift 10 (day3@late)
+Excessive workload  4 for nurse n03 in shift 52 (day17@late)
+Excessive workload  1 for nurse n04 in shift 57 (day19@early)
+Excessive workload  2 for nurse n05 in shift 25 (day8@late)
+Excessive workload  2 for nurse n07 in shift 3 (day1@early)
+Excessive workload  8 for nurse n07 in shift 9 (day3@early)
+Excessive workload  3 for nurse n08 in shift 21 (day7@early)
+Operating theater t0 is open on day 4
+Operating theater t0 is open on day 7
+Operating theater t0 is open on day 8
+Operating theater t0 is open on day 11
+Operating theater t0 is open on day 14
+Operating theater t0 is open on day 17
+Operating theater t0 is open on day 19
+Operating theater t1 is open on day 1
+Operating theater t1 is open on day 3
+Operating theater t1 is open on day 13
+Operating theater t1 is open on day 16
+Patient p01 has been delayed for 2 days
+Patient p02 has been delayed for 9 days
+Patient p03 has been delayed for 18 days
+Patient p04 has been delayed for 5 days
+Patient p06 has been delayed for 1 days
+Patient p10 has been delayed for 12 days
+Patient p11 has been delayed for 5 days
+Patient p12 has been delayed for 1 days
+Patient p13 has been delayed for 3 days
+Patient p15 has been delayed for 8 days
+Patient p16 has been delayed for 2 days
+Patient p18 has been delayed for 5 days
+Patient p21 has been delayed for 2 days
+Patient p22 has been delayed for 8 days
+Patient p24 has been delayed for 4 days
+Patient p26 has been delayed for 8 days
+Patient p27 has been delayed for 6 days
+Patient p28 has been delayed for 3 days
+Patient p29 has been delayed for 11 days
+Patient p30 has been delayed for 1 days
+Patient p31 has been delayed for 10 days
+Patient p33 has been delayed for 3 days
+Patient p36 has been delayed for 1 days
+Patient p37 has been delayed for 3 days
+Patient p39 has been delayed for 1 days
+Elective patient p07 is unscheduled
+Elective patient p08 is unscheduled
+Elective patient p09 is unscheduled
+Elective patient p14 is unscheduled
+Elective patient p17 is unscheduled
+Elective patient p23 is unscheduled
+Elective patient p34 is unscheduled
+Elective patient p38 is unscheduled
+VIOLATIONS: 
+RoomGenderMix.....................0
+PatientRoomCompatibility..........0
+SurgeonOvertime...................0
+OperatingTheaterOvertime..........0
+MandatoryUnscheduledPatients......0
+AdmissionDay......................0
+RoomCapacity......................0
+NursePresence.....................0
+UncoveredRoom.....................0
+Total violations = 0
+
+COSTS (weight X cost): 
+RoomAgeMix............................35 (  5 X   7)
+RoomSkillLevel........................43 (  1 X  43)
+ContinuityOfCare.....................885 (  5 X 177)
+ExcessiveNurseWorkload................24 (  1 X  24)
+OpenOperatingTheater.................330 ( 30 X  11)
+SurgeonTransfer........................0 (  1 X   0)
+PatientDelay.........................660 (  5 X 132)
+ElectiveUnscheduledPatients.........1200 (150 X   8)
